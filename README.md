@@ -13,5 +13,8 @@ For example, here's a simple program in JavaScript: `pwc --javascript create var
 
 and it does everything for you.
 ```javascript
-console.log("replace with actual stuff")
+var egg = true;
+if (egg = true){
+    console.log("egg is true")
+}
 ```
